@@ -1,0 +1,2 @@
+{% if include.platform %}<span class="ctf-badge platform-{{ include.platform | slugify }}">{{ include.platform }}</span>{% endif %}
+{% if include.difficulty %}<span class="ctf-badge diff-{{ include.difficulty | downcase }}">{{ include.difficulty }}</span>{% endif %}

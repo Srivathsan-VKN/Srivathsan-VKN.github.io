@@ -1,0 +1,5 @@
+{% assign tool_list = include.items | split: "," %}
+<div class="tools-block">
+  <span class="tools-label"><i class="fas fa-toolbox"></i> Tools</span>
+  {% for t in tool_list %}<span class="tool-chip">{{ t | strip }}</span>{% endfor %}
+</div>
