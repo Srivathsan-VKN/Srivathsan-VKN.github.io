@@ -8,4 +8,4 @@ Hello and welcome! My name is Srivathsan, also known as Pillow, and you have fou
 
 I currently do mainly TryHackMe,Pico-CTF and other CTF write-ups apart from that currently working on personal project check it out in the Portfolio page.
 
-If you Looking for a Blue Team analyst to strengthen your security defenses? Since you're already exploring my portfolio, you can see exactly what I bring to the table. Let’s connect and talk about how I can support your team.:)
+Are you Looking for a Blue Team analyst to strengthen your security defenses? Since you're already exploring my portfolio, you can see exactly what I bring to the table. Let’s connect and talk about how I can support your team.
