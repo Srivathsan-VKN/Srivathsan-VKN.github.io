@@ -2,13 +2,11 @@
 
 # Import the theme
 theme: jekyll-theme-chirpy
-
+remote-theme: cotes2020/jekyll-theme-chirpy
 
 lang: en
 
 timezone: Asia/Kuala_Lumpur
-
-
 
 title: Srivathsan-VKN # the main title
 
@@ -29,13 +27,12 @@ social:
   name: Srivathsan-VKN
   email: Srivathsan-VKN@gmail.com # change to your email address
   links:
-   
-      - https://github.com/Srivathsan-VKN 
-      - https://www.linkedin.com/in/srivathsan-vkn-315028277
+    - https://github.com/Srivathsan-VKN
+    - https://www.linkedin.com/in/srivathsan-vkn-315028277
 
 # Site Verification Settings
 webmaster_verifications:
-  google: 
+  google:
   bing: # fill in your Bing verification code
   alexa: # fill in your Alexa verification code
   yandex: # fill in your Yandex verification code
@@ -53,7 +50,7 @@ analytics:
     id: # fill in your GoatCounter ID
   umami:
     id:
-    domain: 
+    domain:
   matomo:
     id: # fill in your Matomo ID
     domain: # fill in your Matomo domain
