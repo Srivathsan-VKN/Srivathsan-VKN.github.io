@@ -1,5 +1,3 @@
-# USERNAME.github.io
-
 Personal CTF writeup blog & security portfolio.
 
 **Live site:** https://Srivathsan-VKN.github.io
